@@ -1,0 +1,29 @@
+[{"name":"Breakfast",
+"content":"Startyourdaywithexclusivebreakfastoptions", 
+"image": "Assets/breakfast.jpg",
+"meal_type":1},
+
+{"name":"Lunch",
+"content":"Startyourdaywithexclusivelunchoptions", 
+"image": "Assets/lunch.jpg",
+"meal_type":2},
+
+{"name":"Dinner",
+"content":"Startyourdaywithexclusivedinneroptions", 
+"image": "Assets/dinner.png",
+"meal_type":3},
+
+{"name":"Snacks",
+"content":"Startyourdaywithexclusivesnacksoptions", 
+"image": "Assets/snacks.png",
+"meal_type":4},
+
+{"name":"Drinks",
+"content":"Startyourdaywithexclusivedrinksoptions", 
+"image": "Assets/drinks.png",
+"meal_type":5},
+
+{"name":"NightLife",
+"content":"Startyourdaywithexclusivenightlifeoptions",
+"image": "Assets/nightlife.png",
+"meal_type":6}];
